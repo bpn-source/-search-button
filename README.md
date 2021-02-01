@@ -1,2 +1,2 @@
-# -search-button
+# search-button
 Homework of Selenium course
